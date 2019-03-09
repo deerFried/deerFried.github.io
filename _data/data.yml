@@ -26,7 +26,7 @@ sidebar:
         level: Basic communication, read documents
 
     interests:
-      - item: Developing
+      - item: Development
         link:
       - item: Doge
         link:
@@ -38,13 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Show down. I don't have other context in this section.
 
 education:
     - degree: Computer Science
@@ -69,10 +63,10 @@ experiences:
         - Monolithic Architecture
 
     - role: Backend developer
-      time: 2018.06 ~
+      time: 2018.06 ~ Current
       company: Vingle
       details: |
-        - Manage interest, desking, user, feed, etc... services, included add feature
+        - Manage interest, desking, user, feed, etc... services, included feature adding
         - Rebuild interest, feed recommendation logic
 
         Technology stack
