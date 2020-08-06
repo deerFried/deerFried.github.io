@@ -47,7 +47,7 @@ education:
 
 experiences:
     - role: Backend developer
-      time: 2016.07 - 2018.05
+      time: 2016.07 - 2017.05
       company: Traport
       details: |
         - Manage flight service and add new features
@@ -63,11 +63,22 @@ experiences:
         - Monolithic Architecture
 
     - role: Backend developer
-      time: 2018.06 ~ Current
+      time: 2017.06 ~ 2019.12
       company: Vingle
       details: |
-        - Manage interest, desking, user, feed, etc... services, included feature adding
+        - Maintenance vingle interest, community, Q&A, user, feed services
         - Rebuild interest, feed recommendation logic
+        - Creations
+          - Community voting system
+          - COmmunity activity log system
+          - Interest, user following features
+          - Feed banner and banner recommendation logic
+          - User session auth system (not released)
+          - Trending interest, talk, card recommendation system
+          - User data ETL pipeline
+          - Interest search service
+          - Community related notification services
+          - etc..
 
         Technology stack
         - Typescript / Javascript
@@ -117,28 +128,30 @@ experiences:
 
 publications:
     title: Publications
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
+    intro: |
+      You can read documents in https://medium.com/@ksjlike69
 
     papers:
-      - title: Refactoring (Korean translation version)
-        authors: Martin Fowler
-        # conference: Addison-Wesley, 1968
+      - title: Search Service in Serverless Architecture
+        authors: kwonsejung
+      - title: Do you know DynamoDB Stream
+        authors: kwonsejung
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Typescript
-        level: 100%
+        level: 90%
 
       - name: Javascript
-        level: 95%
+        level: 80%
+
+      - name: Node.js
+        level: 70%
 
       - name: AWS
-        level: 92%
+        level: 70%
 
       - name: Microservice
         level: 90%
